@@ -36,3 +36,5 @@ double bpm = tempo_global_bpm(beat_times, n);
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
