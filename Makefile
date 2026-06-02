@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -std=c99 -O2 -Iinclude
+CFLAGS = -Wall -Wextra -pedantic -std=c99 -O2 -Iinclude
 
 .PHONY: all test clean
 
